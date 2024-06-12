@@ -201,7 +201,7 @@
             Controls.Add(dataGridView1);
             Cursor = Cursors.Default;
             ForeColor = SystemColors.ControlText;
-            FormBorderStyle = FormBorderStyle.FixedSingle;
+            FormBorderStyle = FormBorderStyle.None;
             Name = "Form1";
             UseWaitCursor = true;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

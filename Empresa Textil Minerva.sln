@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Empresa Textil Minerva", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacen Productos", "Almacen Productos\Almacen Productos.csproj", "{8EAB4CA3-3234-4FA3-AEC1-FE8C2E1CFC1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormPrincipal", "FormPrincipal\FormPrincipal.csproj", "{7AB18D08-90F9-4E7E-A03A-8ACBEB034DAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8EAB4CA3-3234-4FA3-AEC1-FE8C2E1CFC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EAB4CA3-3234-4FA3-AEC1-FE8C2E1CFC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EAB4CA3-3234-4FA3-AEC1-FE8C2E1CFC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB18D08-90F9-4E7E-A03A-8ACBEB034DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB18D08-90F9-4E7E-A03A-8ACBEB034DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB18D08-90F9-4E7E-A03A-8ACBEB034DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB18D08-90F9-4E7E-A03A-8ACBEB034DAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -236,6 +236,7 @@
             Controls.Add(button1);
             Controls.Add(groupBox1);
             Controls.Add(dataGridView1);
+            FormBorderStyle = FormBorderStyle.None;
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
